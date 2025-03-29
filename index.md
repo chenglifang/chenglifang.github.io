@@ -18,7 +18,6 @@ I am currently learning python, machine learning etc. and I have a keen interest
 
 
 
-![image](https://github.com/user-attachments/assets/d06930fc-d59d-49c6-a594-92d7999d5d5c)
 
 
 
