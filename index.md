@@ -5,6 +5,7 @@
 
 <br>
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/chenglifang)
 ___
 
 My name is Lifang Cheng. I am looking for a Phd position.
