@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="/assets/img/lihu_avatar.jpeg" width="200px" />
+<img src="/assets/img/lifang.jpeg" width="200px" />
 </div>
 
 <br>
