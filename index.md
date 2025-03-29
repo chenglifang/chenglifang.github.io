@@ -27,6 +27,6 @@ I am currently learning python, machine learning etc. and I have a keen interest
 ___
 
 ### Contact
-**Email**:xx@xx.com
+**Email**:chenglifang1206@gmail.com
 
 I am open to discussions and collaborations. Feel free to reach out!
