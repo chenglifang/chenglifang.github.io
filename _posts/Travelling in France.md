@@ -58,5 +58,4 @@ ___
 <img src="/Lifang/France/the Eiffel Tower.jpg"  />
 </div>
 <center>the Eiffel Tower</center>
-___
 
