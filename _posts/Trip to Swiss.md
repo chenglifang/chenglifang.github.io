@@ -6,7 +6,7 @@ tags: [Travel Photos]
 comments: true
 ---
 <div align=center>
-<img src="/assets/Lifang/France/Étretat.jfif"  />
+<img src="Lifang/France/Carcassonne.jpeg"  />
 </div>
 <center>Étretat</center>
 
