@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="/aLifang/France/the Eiffel Tower.jpg" width="200px" />
+<img src="/Lifang/France/the Eiffel Tower.jpg" width="200px" />
 </div>
 
 <br>
