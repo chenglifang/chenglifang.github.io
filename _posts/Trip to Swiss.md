@@ -6,15 +6,12 @@ tags: [Travel Photos]
 comments: true
 ---
 <div align=center>
-<img src="Lifang/France/Carcassonne.jpeg"  />
+<img src="/Lifang/France/Carcassonne.jpeg"  />
 </div>
-<center>Étretat</center>
+<center>Carcassonne</center>
 
 ___
 
 
-<div align=center>
-<img src="/assets/img/zurich.jpg"  />
-</div>
-<center>Zürich</center>
+
 
