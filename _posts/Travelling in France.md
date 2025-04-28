@@ -30,24 +30,28 @@ ___
 <img src="/Lifang/France/Château de Chenonceau.jpeg"  />
 </div>
 <center>Château de Chenonceau</center>
+
 ___
 
 <div align=center>
 <img src="/Lifang/France/Metz.jpeg"  />
 </div>
 <center>Metz</center>
+
 ___
 
 <div align=center>
 <img src="/Lifang/France/Nice.jpg"  />
 </div>
 <center>Nice</center>
+
 ___
 
 <div align=center>
 <img src="/Lifang/France/Tours.jpeg"  />
 </div>
 <center>Tours</center>
+
 ___
 
 <div align=center>
