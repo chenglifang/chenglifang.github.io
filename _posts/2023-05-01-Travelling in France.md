@@ -20,6 +20,13 @@ ___
 ___
 
 <div align=center>
+<img src="/Lifang/France/Calais.jpg"  />
+</div>
+<center>Calais</center>
+
+___
+
+<div align=center>
 <img src="/Lifang/France/Carcassonne.jpeg"  />
 </div>
 <center>Carcassonne</center>
